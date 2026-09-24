@@ -185,7 +185,7 @@ def preview_users_to_add(users):
 
 
 if __name__ == "__main__":
-    oauth_token = "01ab-7ae13326-63e6-4b6d-ba99-158c71e05a46"  # Replace with the current token.
+    oauth_token = "01ab-7b641496-ffde-4685-86f7-a89abdf193fc"  # Replace with the current token.
     headers = {
         "Accept": "application/json",
         "content-type": "application/json",
